@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "호심기념도서관": {
+      "style": "stone",
+      "wall": "#e0d2d2",
+      "glass": "#4a6a6a",
+      "frame": "#9a9fa8"
+    },
+    "사임당관(여학생기숙사)": {
+      "style": "dorm",
+      "wall": "#a57261",
+      "glass": "#59707a",
+      "frame": "#cab8a1"
+    },
+    "사임당관": {
+      "style": "dorm",
+      "wall": "#a57261",
+      "glass": "#59707a",
+      "frame": "#cab8a1"
+    },
+    "백인관": {
+      "style": "brick",
+      "wall": "#826960",
+      "glass": "#3a4448",
+      "frame": "#d8d4cc"
+    },
+    "진월관": {
+      "style": "brick",
+      "wall": "#9f746b",
+      "glass": "#3d4f5c",
+      "frame": "#cbc8c6"
+    },
+    "극기관": {
+      "style": "brick",
+      "wall": "#967c7c",
+      "glass": "#3c4448",
+      "frame": "#d8d4cc"
+    },
+    "성실관": {
+      "style": "brick",
+      "wall": "#8f7478",
+      "glass": "#3c4448",
+      "frame": "#d8d4cc"
+    },
+    "매원관": {
+      "style": "dorm",
+      "wall": "#dcab9f",
+      "glass": "#4f5c66",
+      "frame": "#f0e6e2"
+    },
+    "호심관": {
+      "style": "brick",
+      "wall": "#ae8886",
+      "glass": "#334e56",
+      "frame": "#e8e0dc"
+    },
+    "전산관": {
+      "style": "ribbon",
+      "wall": "#976c6b",
+      "glass": "#32485b",
+      "frame": "#a2867b"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
